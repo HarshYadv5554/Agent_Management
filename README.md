@@ -46,6 +46,12 @@ A full-stack application for managing tasks and agents.
    npm start
    ```
 
+## Admin Login Credentials
+
+To access the admin dashboard, use the following credentials: 
+Email: admin@example.com
+Password: admin123
+
 ## CSV File Upload Requirements
 
 ### Supported File Types
